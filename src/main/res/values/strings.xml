@@ -1,0 +1,14 @@
+<resources>
+    //Membuat string untuk di tampilkan pada aplikasi
+    <string name="app_name">UTSMeisy</string>
+        <string name="utsmeisy1">Dosen UTDI Beri Motivasi Siswa SMA N 1 Sewon</string>
+        <string name="utsmeisy2">6 Alasan Cerdas Kuliah di UTDI</string>
+        <string name="utsmeisy3">UTDI Adakan Kerja Sama dengan MGBK SMA/MA Gunung Kidul</string>
+        <string name="utsmeisy4">UTDI Jajaki Kerja Sama dengan SMA/K se-Kulon Progo</string>
+        <string name="utsmeisy5">Pentingnya Portofolio Bagi Mahasiswa Jurusan IT</string>
+        <string name="utsmeisy6">Pengukuhan Senat Akademik dan Dewan Pertimbangan UTDI</string>
+        <string name="utsmeisy7">Tahukah Kamu ? Ada yang Baru di UTDI</string>
+        <string name="utsmeisy8">Ingin Dapat Kerja Sebelum Lulus Kuliah ? Bisa Bangget Nihhh</string>
+        <string name="utsmeisy9">Tatap Muka Terbatas, Siapkah Kalian ?</string>
+        <string name="utsmeisy10">Penerimaan Mahasiswa Baru 2022/2023</string>
+</resources>
